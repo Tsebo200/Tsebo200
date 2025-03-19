@@ -1,6 +1,7 @@
 # 🌌Tsebo Ramonyalioa
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer)](https://git.io/typing-svg)
 <br>
+<br>
 ![](https://komarev.com/ghpvc/?username=Tsebo200&style=for-the-badge&color=green)
  
 🏀Hello! My name is Tsebo Ramonyalioa! I've been studying Interactive Development at [Open Window](https://www.openwindow.co.za) since 2020, working primarily in JavaScript, and React specifically - to design and build Fullstack webapps.
@@ -26,12 +27,12 @@
 
 ## 🥷 Skillsets
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![CSS](https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css&logoColor=F7DF1E)
+![CSS](https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css&logoColor=FFA500)
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Swift](https://img.shields.io/badge/Swift-323330?style=for-the-badge&logo=swift&logoColor=F7DF1E)
-![Mongo](https://img.shields.io/badge/Mongodb-323330?style=for-the-badge&logo=mongodb&logoColor=F7DF1E)
+![Mongo](https://img.shields.io/badge/Mongodb-339933?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 <br/>
