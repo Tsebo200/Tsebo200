@@ -1,5 +1,5 @@
 # 🌌Tsebo Ramonyalioa
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=false&width=435&lines=Software+Developer)](https://git.io/typing-svg)
 <br>
 <br>
 ![](https://komarev.com/ghpvc/?username=Tsebo200&style=for-the-badge&color=green)
