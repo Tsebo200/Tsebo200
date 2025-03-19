@@ -2,6 +2,7 @@
 
 <!-- ![Group 64s82](https://github.com/user-attachments/assets/44056da9-eba7-4108-925d-2eb43d508fd5) -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer)](https://git.io/typing-svg)
+<br>
 ![](https://komarev.com/ghpvc/?username=Tsebo200&style=for-the-badge&color=green)
  
 🚀 Hello! My name is Tsebo Ramonyalioa! I've been studying Interactive Development at [Open Window](https://www.openwindow.co.za) since 2020, working primarily in JavaScript, and React specifically - to design and build Fullstack webapps.
@@ -13,11 +14,7 @@
 
 | Oiloasis | Arcane Edge | Whirlpool | Dream Team |
 |--------|--------|--------|--------|
-|
-<a href="https://github.com/Tsebo200/Oiloasis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=Oiloasis&theme=highcontrast" /></a> | 
-<a href="https://github.com/Tsebo200/ArcaneEdge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=ArcaneEdge&theme=highcontrast" /></a> |
-<a href="https://github.com/Tsebo200/whirlpool-host"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=whirlpool-host&theme=highcontrast" /></a> |
-<a href="https://github.com/Tsebo200/Dream-Team"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=Dream-Team&theme=highcontrast" /></a> |
+|<a href="https://github.com/Tsebo200/Oiloasis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=Oiloasis&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/ArcaneEdge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=ArcaneEdge&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/whirlpool-host"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=whirlpool-host&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/Dream-Team"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=Dream-Team&theme=highcontrast" /></a> |
 <br/>
 
 ## 🛸 My GitHub Statistics
