@@ -11,9 +11,9 @@
 ## 🛰️ Check out these repos!
 
 
-| Oiloasis | Arcane Edge | Whirlpool | Dream Team |
+| Oiloasis | Aureum Elegance | Whirlpool | Dream Team |
 |--------|--------|--------|--------|
-|<a href="https://github.com/Tsebo200/Oiloasis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=Oiloasis&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/ArcaneEdge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=ArcaneEdge&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/whirlpool-host"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=whirlpool-host&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/Dream-Team"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=Dream-Team&theme=highcontrast" /></a> |
+|<a href="https://github.com/Tsebo200/Oiloasis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=Oiloasis&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/Aureum-Elegance-Frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=ArcaneEdge&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/whirlpool-host"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=whirlpool-host&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/Dream-Team"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=Dream-Team&theme=highcontrast" /></a> |
 <br/>
 
 ## 🛸 My GitHub Statistics
