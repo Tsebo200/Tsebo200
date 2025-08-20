@@ -1,4 +1,4 @@
-# 🌌Tsebo Ramonyalioa
+# 🌌 Tsebo Ramonyalioa
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&vCenter=true&width=435&lines=Software+Developer)](https://git.io/typing-svg)
 <br>
 <br>
