@@ -4,16 +4,16 @@
 <br>
 ![](https://komarev.com/ghpvc/?username=Tsebo200&style=for-the-badge&color=green)
  
-🏀Hello! My name is Tsebo Ramonyalioa! I've been studying Interactive Development at [Open Window](https://www.openwindow.co.za) since 2020, working primarily in JavaScript, and React specifically - to design and build Fullstack webapps.
+🏀Hello! My name is Tsebo Ramonyalioa! I've been studying Interactive Development at [Open Window](https://www.openwindow.co.za) since 2020, working primarily in React.js specifically - to design and build Fullstack websites and apps.
 
 <br/>
 
 ## 🛰️ Check out these repos!
 
 
-| Oiloasis | Aureum Elegance | Whirlpool | Dream Team |
+| ShieldMe | Aureum Elegance | Whirlpool | Dream Team |
 |--------|--------|--------|--------|
-|<a href="https://github.com/Tsebo200/Oiloasis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=Oiloasis&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/Aureum-Elegance-Frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=Aureum-Elegance-Frontend&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/whirlpool-host"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=whirlpool-host&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/Dream-Team"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=Dream-Team&theme=highcontrast" /></a> |
+|<a href="https://github.com/Tsebo200/ShieldMe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=ShieldMe&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/Aureum-Elegance-Frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=Aureum-Elegance-Frontend&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/whirlpool-host"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=whirlpool-host&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/Dream-Team"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=Dream-Team&theme=highcontrast" /></a> |
 <br/>
 
 ## 🛸 My GitHub Statistics
