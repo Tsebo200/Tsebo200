@@ -29,7 +29,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML-E44D27?style=for-the-badge&logo=css&logoColor=E44D27)
+![HTML](https://img.shields.io/badge/html-E44D27?style=for-the-badge&logo=html&logoColor=E44D27)
 ![SCSS](https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css&logoColor=CD6799)
 ![Swift](https://img.shields.io/badge/Swift-323330?style=for-the-badge&logo=swift&logoColor=FFA500)
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
