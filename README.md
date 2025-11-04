@@ -36,7 +36,8 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=supabase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-339933?style=for-the-badge&logo=supabase&logoColor=white)
+![FireStore](https://img.shields.io/badge/Firebase-DD2C01?style=for-the-badge&logo=firebase&logoColor=white)
 <br/>
 <br/>
 
