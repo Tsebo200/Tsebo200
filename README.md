@@ -10,9 +10,9 @@
 ## 🛰️ Check out these repos!
 
 
-| SkyScansGames | SkyRecommendsGames | ShieldMe | Aureum Elegance |
+| SkyScansGames | SkyRecommendsGames | ShieldMe | Aureum Elegance | Dream Team |
 |--------|--------|--------|--------|--------|
-|<a href="https://github.com/Tsebo200/SkyScansGames"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=SkyScansGames&theme=highcontrast" /></a> |<a href="https://github.com/Tsebo200/ SkyRecommendsGames"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=SkyRecommendsGames&theme=highcontrast" /></a> |<a href="https://github.com/Tsebo200/ShieldMe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=ShieldMe&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/Aureum-Elegance-Frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=Aureum-Elegance-Frontend&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/whirlpool-host"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=whirlpool-host&theme=highcontrast" /></a> |
+|<a href="https://github.com/Tsebo200/SkyScansGames"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=SkyScansGames&theme=highcontrast" /></a> |<a href="https://github.com/Tsebo200/ SkyRecommendsGames"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=SkyRecommendsGames&theme=highcontrast" /></a> |<a href="https://github.com/Tsebo200/ShieldMe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=ShieldMe&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/Aureum-Elegance-Frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=Aureum-Elegance-Frontend&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/whirlpool-host"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=whirlpool-host&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/Dream-Team"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=Dream-Team&theme=highcontrast" /></a> |
 <br/>
 
 
