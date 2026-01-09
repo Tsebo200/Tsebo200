@@ -10,15 +10,16 @@
 ## 🛰️ Check out these repos!
 
 [![SkyScansGames](https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=SkyScansGames&theme=highcontrast)](https://github.com/Tsebo200/SkyScansGames)
+[![SkyRecommendsGames](https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=SRG-SkyRecommendsGames&theme=highcontrast)](https://github.com/Tsebo200/SRG-SkyRecommendsGames)
+[![ShieldMe](https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=ShieldMe&theme=highcontrast)](https://github.com/Tsebo200/ShieldMe)
+[![Aureum Elegance](https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=Aureum-Elegance-FrontendGames&theme=highcontrast)](https://github.com/Tsebo200/Aureum-Elegance-Frontend)
 
 | SkyScansGames | SkyRecommendsGames | ShieldMe | Aureum Elegance | 
 |--------|--------|--------|--------|
-|<a href="https://github.com/Tsebo200/SkyScansGames"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=SkyScansGames&theme=highcontrast" /></a> |<a href="[https://github.com/Tsebo200/SRG-SkyRecommendsGames](https://github.com/Tsebo200/SRG-SkyRecommendsGames)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=SRG-SkyRecommendsGames&theme=highcontrast" /></a> |<a href="https://github.com/Tsebo200/ShieldMe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=ShieldMe&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/Aureum-Elegance-Frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=Aureum-Elegance-Frontend&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/whirlpool-host"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=whirlpool-host&theme=highcontrast" /></a> |
+|<a href="https://github.com/Tsebo200/SkyScansGames"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=SkyScansGames&theme=highcontrast" /></a> |<a href="[https://github.com/Tsebo200/SRG-SkyRecommendsGames](https://github.com/Tsebo200/SRG-SkyRecommendsGames)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=SRG-SkyRecommendsGames&theme=highcontrast" /></a> |<a href="https://github.com/Tsebo200/ShieldMe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=ShieldMe&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/Aureum-Elegance-Frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=Aureum-Elegance-Frontend&theme=highcontrast" /></a>
 <br/>
 
-| SkyScansGames | SkyRecommendsGames | ShieldMe | Aureum Elegance | Whirlpool Host |
-|--------------|-------------------|----------|-----------------|----------------|
-| <a href="https://github.com/Tsebo200/SkyScansGames"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=SkyScansGames&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/SRG-SkyRecommendsGames"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=SRG-SkyRecommendsGames&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/ShieldMe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=ShieldMe&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/Aureum-Elegance-Frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=Aureum-Elegance-Frontend&theme=highcontrast" /></a> | <a href="https://github.com/Tsebo200/whirlpool-host"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=whirlpool-host&theme=highcontrast" /></a> |
+
 
 ## 🛸 My GitHub Statistics
 <div>
