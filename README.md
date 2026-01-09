@@ -9,6 +9,7 @@
 
 ## 🛰️ Check out these repos!
 
+[![SkyScansGames](https://github-readme-stats.vercel.app/api/pin/?username=Tsebo200&repo=SkyScansGames&theme=highcontrast)](https://github.com/Tsebo200/SkyScansGames)
 
 | SkyScansGames | SkyRecommendsGames | ShieldMe | Aureum Elegance | 
 |--------|--------|--------|--------|
