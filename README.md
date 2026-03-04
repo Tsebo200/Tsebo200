@@ -4,7 +4,7 @@
 <br>
 ![](https://komarev.com/ghpvc/?username=Tsebo200&style=for-the-badge&color=green)
  
-🏀Hello! My name is Tsebo Ramonyalioa! I am a passionate Frontend Dev who loves to apply new design trends in development. I've been studying Interactive Development at [Open Window](https://www.openwindow.co.za) since 2020, working primarily in React.js/React Native to design and build full-stack websites and apps. So I tried [Flutter🫠 SRGDemo](https://github.com/Tsebo200/SRG_DemoFlutter). Future learning implementations that I would love to incorporate in websites and apps are in animating elements with CSS(CSStricks) and 2D animations(e.g. Adobe Animate/Premiere Pro).
+🏀Hello! My name is Tsebo Ramonyalioa! I am a passionate Frontend Dev who loves to apply new design trends in development. I've been studying Interactive Development at [Open Window](https://www.openwindow.co.za) since 2020, working primarily in React.js/React Native to design and build full-stack websites and apps. Future learning implementations that I would love to incorporate in websites and apps are in animating elements with CSS(CSStricks) and 2D animations(e.g. Adobe Animate/Premiere Pro).
 <br/>
 
 ## 🛰️ Check out these repos!
