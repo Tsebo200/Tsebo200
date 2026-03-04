@@ -22,13 +22,19 @@
 
 
 ## 🛸 My GitHub Statistics
-<div>
+<!-- <div>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Tsebo200&show_icons=true&theme=highcontrast" height="165" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsebo200&layout=donut&theme=highcontrast" height="165" />
   </p>
-</div>
+</div> -->
 <br/>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tsebo200&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tsebo200&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tsebo200&theme=radical) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tsebo200&theme=radical) | ![](https://streak-stats.demolab.com?user=Tsebo200&theme=tokyonight&hide_border=false) |
+| :-: | :-: |
 
 ## 🥷 Skillsets
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
