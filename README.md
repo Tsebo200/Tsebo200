@@ -37,6 +37,7 @@
 | :-: | :-: |
 
 ## 🥷 Skillsets
+![Wordpress](https://img.shields.io/badge/Wordpress-DD2C01?style=for-the-badge&logo=Wordpress&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
